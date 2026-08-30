@@ -1,0 +1,65 @@
+{
+  "updated": "2026-08-30",
+  "items": [
+    {
+      "date": "2026-08-27",
+      "title": "Free speech lawsuits against Tarrant County Judge Tim O'Hare awaiting Fifth Circuit decision",
+      "source": "Fort Worth Report",
+      "url": "https://fortworthreport.org/2026/08/27/free-speech-lawsuits-against-tarrant-county-judge-awaiting-decision-from-us-appeals-court/",
+      "summary": "Two federal lawsuits allege Tarrant County and County Judge Tim O'Hare violated the First Amendment by removing speakers from Commissioners Court meetings under county decorum rules. A related case is before the U.S. Fifth Circuit; U.S. District Judge Mark Pittman paused the newer Kirkland suit pending that ruling. Coverage also notes a recent meeting in which the courtroom was cleared after applause and a former state lawmaker was arrested after continuing to speak. This is civil constitutional litigation, not an SCJC sanction.",
+      "area": "Tarrant County",
+      "quality": "Local nonprofit newsroom citing docket activity; high reliability on procedural posture, merits unresolved.",
+      "image": null
+    },
+    {
+      "date": "2026-08-27",
+      "title": "Midland County commissioners set Sept. 2 meeting to appoint acting county judge after SCJC suspension",
+      "source": "Midland Reporter-Telegram",
+      "url": "https://www.mrt.com/news/article/midland-tx-acting-judge-appointment-22406607.php",
+      "summary": "After the State Commission on Judicial Conduct suspended County Judge Terry Johnson with pay on Aug. 26, Midland County Commissioners Court scheduled a Sept. 2 special meeting to appoint an acting county judge under Government Code section 26.017. Johnson was indicted Aug. 19 on two third-degree felonies and a misdemeanor tied to posting a document containing personal identifying information. A separate Chapter 87 removal suit by the district attorney remains pending.",
+      "area": "Statewide / Midland County",
+      "quality": "Local newspaper of record plus official meeting notice.",
+      "image": null
+    },
+    {
+      "date": "2026-08-26",
+      "title": "SCJC Order of Suspension: Hon. Terry Johnson, Midland County Judge (with pay)",
+      "source": "State Commission on Judicial Conduct",
+      "url": "https://scjc.texas.gov/media/kdhdsttz/johnson26-1425suspension-order-signed.pdf",
+      "summary": "Interim Chair Hon. Ken Wise signed an Order of Suspension on Aug. 26, 2026. The Commission recites the Aug. 19 indictment in Cause No. DCR-26-00807 and suspends Johnson with pay until the charges are dismissed, he is acquitted, or the Commission orders otherwise. The Commission reserved authority to reconsider if additional information arrives.",
+      "area": "Statewide / SCJC",
+      "quality": "Official signed SCJC order. Highest reliability for the fact of suspension.",
+      "image": null
+    },
+    {
+      "date": "2026-08-25",
+      "title": "Judges in malpractice case received $32,500 in contributions from Baker Botts and counsel",
+      "source": "Southeast Texas Record / Legal Newsline",
+      "url": "https://www.legalnewsline.com/southeast-texas-record/judges-in-malpractice-case-received-32-500-in-contributions/article_293b145a-8db4-4661-b6be-2ee690f45031.html",
+      "summary": "Reporting on campaign-finance records found Baker Botts and related counsel contributed at least $32,500 to five judges connected to a Houston malpractice/arbitration matter, including $6,500 to Justice Ken Wise of the 14th Court of Appeals while the appeal was pending. The article states the contributions do not by themselves establish wrongdoing and do not show the contributions affected any ruling. Questions raised concern disclosure, recusal, and appearance of impartiality.",
+      "area": "Statewide / 14th Court of Appeals (Houston)",
+      "quality": "Legal trade reporting citing contribution records. Reliable on dollar amounts and timing; no finding of misconduct.",
+      "image": null
+    },
+    {
+      "date": "2026-08-25",
+      "title": "Maverick County Judge Ramsey English Cantu resigns after Chapter 87 suspension",
+      "source": "San Antonio Express-News / Laredo Morning Times",
+      "url": "https://www.mysanantonio.com/news/local/article/ramsey-cantu-maverick-22402582.php",
+      "summary": "Former Maverick County Judge Ramsey English Cantu resigned after months under a court-ordered suspension in a Chapter 87 petition alleging official misconduct and incompetency. A court had also restricted his social-media speech. He stated he was not leaving under indictment. Specific underlying facts of the civil allegations were limited in public coverage.",
+      "area": "Statewide / Maverick County",
+      "quality": "Hearst local reporting. Reliable on resignation and prior suspension.",
+      "image": null
+    },
+    {
+      "date": "2026-08-19",
+      "title": "Judge John Roach Jr. recused from next steps of Karmelo Anthony case",
+      "source": "The Dallas Morning News",
+      "url": "https://www.dallasnews.com/news/crime/article/roach-recusal-new-judge-anthony-what-to-know-22394827.php",
+      "summary": "Visiting Judge Sid Harle recused Collin County District Judge John Roach Jr. from remaining proceedings in the Karmelo Anthony case. Defense argued Roach's public comments about the verdict and his decision to close an overflow room created an appearance of bias and a public-trial issue. Harle said he personally believed Roach could be fair but found the defense showing sufficient for recusal.",
+      "area": "Collin County",
+      "quality": "Metro newspaper of record covering an on-the-record recusal hearing.",
+      "image": null
+    }
+  ]
+}
