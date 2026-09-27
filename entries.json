@@ -1,6 +1,26 @@
 {
-  "updated": "2026-09-20",
+  "updated": "2026-09-27",
   "items": [
+    {
+      "date": "2026-09-26",
+      "title": "Guadalupe County Judge Kyle Kutscher faces Texas Rangers inquiry over data-center land deal",
+      "source": "Seguin Gazette",
+      "url": "https://seguingazette.com/news/guadalupe-county-judge-faces-state-inquiry-over-data-center-deal/article_41970ad5-b4e1-42c8-927f-95fd4b2a0877.html",
+      "summary": "The Seguin Gazette reported on Sept. 26, 2026 that the Texas Rangers are looking into allegations involving Guadalupe County Judge Kyle Kutscher and his family's pending sale of property to a data-center developer. Sheriff Joshua Ray said he received information over the summer suggesting possible state-law violations in dealings with project representatives, reviewed it, and forwarded it to County Attorney David Willborn, who referred the matter to the Rangers to avoid any appearance of local conflict. No charges, indictment, or State Commission on Judicial Conduct order is described in the available public portion of the article. A separate July 2026 civil lawsuit by residents and the Data Center Action Coalition already alleges conflict-of-interest and Open Meetings Act issues around Palomino Alpha and CloudBurst approvals.",
+      "area": "Guadalupe County",
+      "quality": "County newspaper of record quoting named local officials on the fact of a Rangers referral. High reliability that a referral occurred; merits, statutes invoked, and outcome unknown. Article body is partly paywalled.",
+      "image": null
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Four Tarrant County residents sue over Commissioners Court decorum rules; Burnam removal petition dismissed",
+      "source": "The Dallas Morning News",
+      "url": "https://www.dallasnews.com/news/courts/article/tarrant-county-commissioner-court-rules-22444457.php",
+      "summary": "Four regular attendees filed a federal lawsuit on Sept. 22, 2026 asking a court to strike portions of Tarrant County Commissioners Court meeting rules as unconstitutional, arguing County Judge Tim O'Hare has too much discretion to restrict speech and punish critics. The same article reports that a district judge that day dismissed former Rep. Lon Burnam's Sept. 9 Chapter 87 petition seeking O'Hare's removal for official misconduct or incompetency, finding the allegations insufficient under state law. Related First Amendment litigation over meeting removals remains pending, including matters previously logged as awaiting the Fifth Circuit.",
+      "area": "Tarrant County",
+      "quality": "Metro newspaper of record citing a newly filed federal complaint and a same-day state-court dismissal. High reliability on the procedural facts; constitutional merits unresolved. This is civil litigation, not an SCJC sanction.",
+      "image": null
+    },
     {
       "date": "2026-09-16",
       "title": "KTRE: Polk County district judge publicly admonished over COVID-19 vaccine/visitation order and plea-certification rule",
