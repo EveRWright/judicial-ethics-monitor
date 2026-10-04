@@ -1,6 +1,36 @@
 {
-  "updated": "2026-09-27",
+  "updated": "2026-10-04",
   "items": [
+    {
+      "date": "2026-10-02",
+      "title": "SCJC suspends Rains County JP Robert Jenkins Franklin without pay after aggravated-perjury indictment",
+      "source": "KETK / KLTV / ABA Journal",
+      "url": "https://www.ketk.com/news/crime-public-safety/rains-county-judge-suspended-after-arrest-for-perjury-in-child-support-hearing/",
+      "summary": "The State Commission on Judicial Conduct suspended Rains County Justice of the Peace Robert Jenkins Franklin without pay after a Sept. 21 grand jury indictment for aggravated perjury, a third-degree felony. The indictment alleges Franklin made false statements under oath at a Jan. 13, 2026 hearing in the 354th District Court on whether he had participated in property transactions for the Franklin Family Trust while seeking to reduce his child-support obligation. Local reporting says he was arrested Sept. 28 or 29, posted a $10,000 bond, and that the suspension runs until the charges are dismissed, he is acquitted, or the Commission orders otherwise. He was previously suspended in June 2025 on an official-oppression charge that was later dismissed, and he received deferred adjudication on a DWI in August 2025. This is an indictment-based suspension, not a finding that the perjury charge is proved.",
+      "area": "Statewide / SCJC (Rains County)",
+      "quality": "East Texas network affiliates citing the indictment and SCJC suspension, corroborated by ABA Journal and Law.com. High reliability on the fact of the indictment and the without-pay suspension. Guilt is unproven.",
+      "image": null
+    },
+    {
+      "date": "2026-10-01",
+      "title": "House oversight hearing airs Travis County DA outside-consulting and case-decision disputes",
+      "source": "Texas Policy Research / KXAN",
+      "url": "https://www.texaspolicyresearch.com/texas-house-examines-prosecutorial-integrity-and-accountability/",
+      "summary": "On Sept. 30, 2026 the Texas House Select Committee on Governmental Oversight held an interim hearing on prosecutorial integrity, including outside influence on district attorneys. Testimony addressed the Wren Collective's relationship with the Travis County District Attorney's Office and a January 2022 nondisclosure agreement described in a 2025 Law Enforcement Legal Defense Fund report. A Travis County DA representative told the committee third parties do not direct individual case decisions and said she was not aware of Wren policy consultation. KXAN reported at least one member discussed subpoenaing or impeaching District Attorney José Garza. This is legislative oversight of a prosecutor, not an SCJC judicial sanction, and competing accounts are unresolved.",
+      "area": "Travis County / Austin",
+      "quality": "Advocacy-policy writeup of a public hearing plus local broadcast coverage. High reliability that the hearing occurred and that named disputes were aired. Low reliability as proof of improper influence until the underlying agreement and records are tested.",
+      "image": null
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Law.com: Texas judicial and attorney oversight bodies released a batch of disciplinary actions",
+      "source": "Law.com / Texas Lawyer",
+      "url": "https://www.law.com/texaslawyer/2026/10/01/judges-lawyers-face-disciplinary-action-in-texas/",
+      "summary": "Texas Lawyer reported on Oct. 1, 2026 that three judges, one justice of the peace, and a Houston attorney were among 16 disciplinary actions taken by Texas judicial and attorney oversight bodies, according to information released that Thursday. The article body is behind a subscription wall, so the named judges, courts, and sanction types are not confirmed in the public excerpt. A companion Law.com piece the same day covers the Franklin suspension. Treat the batch as a lead, not a completed sanction list, until the SCJC orders or the article text are in hand.",
+      "area": "Statewide / SCJC",
+      "quality": "Trade press lede only. Medium reliability that a Thursday release occurred. Low reliability on which judges were sanctioned until the paywall or official orders are checked. Do not treat unnamed judges as confirmed.",
+      "image": null
+    },
     {
       "date": "2026-09-26",
       "title": "Guadalupe County Judge Kyle Kutscher faces Texas Rangers inquiry over data-center land deal",
