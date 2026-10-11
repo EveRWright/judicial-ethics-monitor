@@ -1,1 +1,25 @@
-PLACEHOLDER
+{
+  "updated": "2026-10-11",
+  "items": [
+    {
+      "date": "2026-10-08",
+      "title": "Texans testify at SCJC biennial public meeting demanding transparency, conflict curbs, and ruling deadlines",
+      "source": "The Texan",
+      "url": "https://thetexan.news/judicial/texans-clamor-for-court-reforms-at-state-commission-on-judicial-conduct/article_99e56bf3-8d7d-4278-a088-ec91ea29e954.html",
+      "summary": "On October 7, 2026, roughly 50 Texans testified before the 13-member State Commission on Judicial Conduct at its required public meeting in Austin. Speakers described judicial conflicts of interest (including campaign contributions from lawyers appearing before judges and a judge’s spouse serving as an opposing financial expert), multi-month delays in rulings, transcript costs exceeding $20,000, and perceived unfairness in child-custody cases. Advocates proposed mandatory 10-business-day ruling deadlines (with stated reasons for extensions), online complaint filing, publication of SCJC transcripts and findings, and automatic SCJC referral when appellate courts find abuse of discretion. Testimony also referenced earlier 2026 sanctions against Harris County Judges Melissa Morris and Natalia Cornelio. No new formal sanctions were issued at the meeting.",
+      "area": "Statewide / SCJC / Travis County (Austin)",
+      "quality": "On-site reporting by The Texan of a public governmental meeting. High reliability for the occurrence of the hearing and the themes of public testimony. Individual allegations against unnamed judges remain unadjudicated.",
+      "image": null
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Fifth Circuit hears oral argument on absolute immunity for Loving County JP Amber King and officials in alleged voter-intimidation jailing",
+      "source": "Courthouse News Service",
+      "url": "https://www.courthousenews.com/fifth-circuit-considers-immunity-for-texas-officials-who-jailed-rivals",
+      "summary": "On October 6, 2026, the U.S. Court of Appeals for the Fifth Circuit heard argument on whether absolute judicial immunity bars damages claims against Loving County Justice of the Peace Amber King, the sheriff, and a constable. Plaintiffs allege King summoned them to a May 2022 “sham” juror-qualification proceeding, declared them in contempt after they affirmed residency, and ordered their arrest in what they describe as voter intimidation. Defendants argue contempt is a core judicial act immune from suit even if motivated by malice. Counsel noted King lost reelection, the orders were vacated, and the State Commission on Judicial Conduct publicly reprimanded her (CJC Nos. 22-1490 et al., June 3, 2026). The panel has not yet ruled.",
+      "area": "Statewide / SCJC (Loving County) / Federal courts",
+      "quality": "Specialized court reporting of oral argument. High reliability on the procedural posture and the parties’ positions. Underlying facts and the immunity question remain unresolved.",
+      "image": null
+    }
+  ]
+}
