@@ -1,1 +1,55 @@
-$(cat /tmp/new_entries.json)
+{
+  "updated": "2026-10-25",
+  "items": [
+    {
+      "date": "2026-10-23",
+      "title": "Judge Ada Brown to be questioned under oath over allegations of abandoning post and misconduct",
+      "source": "The Texas Lawbook / Dallas Morning News",
+      "url": "https://www.dallasnews.com/the-texas-lawbook/article/judge-ada-brown-allegations-22491490.php",
+      "summary": "U.S. District Judge Ada Brown (Northern District of Texas, Dallas) is under Fifth Circuit Judicial Council investigation for abandoning her post, failing to manage her docket, making racial insults and hostile comments, habitual delays, and refusing to cooperate. She was temporarily stripped of cases; an under-oath interview is set for Oct. 30. Official documents cite probable cause for multiple JC&D violations and concerns about a mental condition.",
+      "area": "Dallas County / Statewide (federal)",
+      "quality": "High — official Fifth Circuit orders, Reuters, Bloomberg Law, local reporting",
+      "image": null
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Wilson County JP Jared Shaw indicted on official oppression charges and suspended without pay",
+      "source": "KSAT Investigates",
+      "url": "https://www.ksat.com/news/ksat-investigates/2026/10/22/indictment-wilson-county-justice-of-the-peace-had-people-arrested-unlawfully/",
+      "summary": "Grand jury indicted Precinct 1 Justice of the Peace Jared Evan Shaw on six counts of official oppression and unlawful restraint for allegedly unlawfully arresting three people, including jailing a mother in a truancy case without required hearing or counsel. SCJC (which previously issued a public reprimand) suspended him without pay.",
+      "area": "Statewide (Wilson County, near priority areas)",
+      "quality": "High — indictment, SCJC suspension order, court records, local investigative reporting",
+      "image": null
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Former Angelina County JP Donald Puckett accepts permanent lifetime ban from judicial service",
+      "source": "Texas Scorecard",
+      "url": "https://texasscorecard.com/local/east-texas-judge-resigns-to-avoid-disciplinary-action/",
+      "summary": "Donald Puckett signed an SCJC agreement permanently disqualifying him from all judicial service in Texas to resolve a misconduct complaint. Followed his resignation and no-contest plea for abuse of official capacity after requiring an employee to complete mandatory training in his place.",
+      "area": "Statewide",
+      "quality": "High — official agreement, criminal records, local news",
+      "image": null
+    },
+    {
+      "date": "2026-09-26",
+      "title": "Guadalupe County Judge Kyle Kutscher faces Texas Rangers inquiry over data center land deal conflict",
+      "source": "Seguin Gazette",
+      "url": "https://seguingazette.com/news/guadalupe-county-judge-faces-state-inquiry-over-data-center-deal/article_41970ad5-b4e1-42c8-927f-95fd4b2a0877.html",
+      "summary": "Texas Rangers are reviewing allegations that Judge Kyle Kutscher had conflicts of interest related to his family's pending land sale to a data center developer while participating in related discussions (despite recusing on votes). Parallel civil suits allege Open Meetings Act and conflict violations. Kutscher is not seeking re-election. Investigation remains active.",
+      "area": "Guadalupe County (top priority)",
+      "quality": "High — local newspaper, confirmed sheriff referral to Rangers and DPS acknowledgment",
+      "image": null
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Texans call for court reforms and greater accountability at SCJC public meeting",
+      "source": "The Texan",
+      "url": "https://thetexan.news/judicial/texans-clamor-for-court-reforms-at-state-commission-on-judicial-conduct/article_99e56bf3-8d7d-4278-a088-ec91ea29e954.html",
+      "summary": "Approximately 50 witnesses testified at the State Commission on Judicial Conduct's biennial public meeting, raising concerns about custody-case treatment, campaign-contribution conflicts, high transcript costs, delayed rulings, and the Commission's limited ability to remove judges even after substantiated findings. Calls for transparency and legislative reforms.",
+      "area": "Statewide / Travis County",
+      "quality": "High — direct coverage of public proceeding",
+      "image": null
+    }
+  ]
+}
